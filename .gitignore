@@ -1,0 +1,13 @@
+.env
+.sfdx
+.DS_Store
+.claude/
+note-browser-profile/
+note-export/
+node_modules/
+old/
+temp-images/
+eyecatch-progress.csv
+note-article-note.md
+note-article-wordpress.md
+note-article.md
