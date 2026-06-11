@@ -63,7 +63,7 @@ v22.0.0
 GitHubからダウンロードします。
 
 ```bash
-git clone https://xxxxx.git
+git clone https://github.com/atueda/NoteWordpress.git
 ```
 
 または、GitHub画面の `Code` → `Download ZIP` からダウンロードしてください。
